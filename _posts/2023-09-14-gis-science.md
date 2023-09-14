@@ -8,9 +8,6 @@ tags:
   - Science
 ---
 
-Here is an image: 
-![github logo](/Users/tatesutter/Desktop/openGIScience/t-sutter.github.io/assets/images/github-mark/github-mark.png)
-
 Though science can be viewed as the correct way to identify patterns and facts, this narrow definition of science hinders a framework grounded in expanding knowledge from gaining greater understanding of the world. The terms science or scientific provides a level of “credibility” to a field or topic. A popular view of science aligns with positivist beliefs that all knowledge must be logically derived from observable experiences. This view does not recognize alternative approaches or traditions which provide insights into the world. Observation and multigenerational knowledge can prove true even if not “verified” by the scientific process.
 
 A broadening science beyond positivist practices does not remove the importance of reproducibility and replication. Knowledge gained outside of a positivist approach can still be accurate; however, the ability for an experiment or process to be replicated and the same (or similar) results be achieved reinforces or refutes prior discoveries. 
