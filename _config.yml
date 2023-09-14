@@ -60,14 +60,14 @@ plugins:
 
 author:
   name   : "Tate Sutter"
-  avatar : "/assets/images/bio-photo.jpeg"
+  avatar : "/Users/tatesutter/Desktop/openGIScience/t-sutter.github.io/assets/images/home-page/bio-photo.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "LinkedIn"
-      icon: "/assets/images/In-Blue-34.png"
+      icon: "/Users/tatesutter/Desktop/openGIScience/t-sutter.github.io/assets/images/home-page/bio-photo.jpeg"
       url: "https://www.linkedin.com/in/tatesutter/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
