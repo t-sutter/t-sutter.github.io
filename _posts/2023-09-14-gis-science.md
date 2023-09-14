@@ -9,7 +9,7 @@ tags:
 ---
 
 Here is an image: 
-![github logo](assets/images/github-mark/github-mark.png)
+![github logo](/assets/images/github-mark/github-mark.png)
 
 Though science can be viewed as the correct way to identify patterns and facts, this narrow definition of science hinders a framework grounded in expanding knowledge from gaining greater understanding of the world. The terms science or scientific provides a level of “credibility” to a field or topic. A popular view of science aligns with positivist beliefs that all knowledge must be logically derived from observable experiences. This view does not recognize alternative approaches or traditions which provide insights into the world. Observation and multigenerational knowledge can prove true even if not “verified” by the scientific process.
 
