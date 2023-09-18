@@ -67,7 +67,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "LinkedIn"
-      icon: "/Users/tatesutter/Desktop/openGIScience/t-sutter.github.io/assets/images/home-page/bio-photo.jpeg"
+      icon: "fab fa-fw fa-linkedin" #"/Users/tatesutter/Desktop/openGIScience/t-sutter.github.io/assets/images/home-page/bio-photo.jpeg"
       url: "https://www.linkedin.com/in/tatesutter/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
