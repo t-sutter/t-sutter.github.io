@@ -38,6 +38,7 @@ An open source approach can be viewed as amateur or unprofessional.
 Open source GIS does not solve all of geographies reproducibility challenges; however, it decreases them. 
 Further development and adaption of open source GIS in geography can directly compliment the advancement of reproducibility in geography.
 
+--- 
 ### Sources
 
 NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. [DOI: 10.17226/25303]( https://doi.org/10.17226/25303)
