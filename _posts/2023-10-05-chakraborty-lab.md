@@ -8,7 +8,6 @@ tags:
   - Science
   - Reproducibility
 ---
-# Reproducing J. Chakraborty 2021
 
 One can pledge to produce studies in a reproducible manner. Creating a reproducible study and the process of independently reproducing a study prove much more challenging. 
 By contributing to the reproduction of *Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S.* by Dr. Jayajit Chakraborty (2021), I gained a better understanding and appreciation of replicating academic geography papers. 
