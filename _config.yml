@@ -17,9 +17,7 @@
 title: Tate Sutter's Geography Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Beep! Beep! Beep! This page is under construction.
 twitter_username: username
 github_username: t-sutter
 minimal_mistakes_skin: dirt
@@ -60,21 +58,21 @@ plugins:
 
 author:
   name   : "Tate Sutter"
-  avatar : "/Users/tatesutter/Desktop/openGIScience/t-sutter.github.io/assets/images/home-page/bio-photo.jpeg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" #"/Users/tatesutter/Desktop/openGIScience/t-sutter.github.io/assets/images/home-page/bio-photo.jpeg"
       url: "https://www.linkedin.com/in/tatesutter/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
