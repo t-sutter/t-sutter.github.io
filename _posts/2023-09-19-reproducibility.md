@@ -9,7 +9,7 @@ tags:
 ---
 
 Across scientific disciplines, including geography, the reproducibility of experiments can prove challenging.
-Here, reproducibility means a secondary researcher recomputing an original researcher’s study with access to their code, data, and methods (36 NASEM). 
+Here, reproducibility means a secondary researcher recomputing an original researcher’s study with access to their code, data, and methods. [^1] 
 The widespread adaptation of computational analysis within science has increased the potential error within experiments. 
 A single line of code or misused program can greatly modify results without those running the analysis’s knowledge. 
 Updates, discontinuation, and the price barriers of some software can decrease the reproducibility of an experiment or analysis. 
@@ -41,6 +41,6 @@ Further development and adaption of open source GIS in geography can directly co
 --- 
 ### Sources
 
-NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. [DOI: 10.17226/25303]( https://doi.org/10.17226/25303)
+[^1]: NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. [DOI: 10.17226/25303]( https://doi.org/10.17226/25303)
 
 Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. http://dx.doi.org/10.1007/s10109-009-0086-8

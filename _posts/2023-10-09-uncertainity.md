@@ -14,7 +14,7 @@ This brings forth the question of how uncertainty should be communicated and how
 
 ![Explanation of conceptual view of uncertainty.](/assets/images/longley_6_1_uncertainity.png)
 
-In Geographic Information Systems and Science, the authors present uncertainty through the framework illustrated above. [^1].
+In Geographic Information Systems and Science, the authors present uncertainty through the framework illustrated above.[^1]
 The conception and creation of research questions can be limited by seemingly unconnected influences.
 Words for specific incidences or species exist in some languages and not in others.
 While this may appear inconsequential to scientific representations of the world, it can constrict the questions explored. 
@@ -29,5 +29,6 @@ Tools like this inform researchers or those interpreting others research on how 
 Uncertainty cannot be avoided in representations and measurements of the world.
 However, we can design research and employ methods which decrease the impacts of uncertainty.
 
-—
+---
+### Sources
 [^1]: Longley, P. A, M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. “Uncertainty.” In Geographical Information Systems and Science, 2nd ed. Chichester: Wiley.
