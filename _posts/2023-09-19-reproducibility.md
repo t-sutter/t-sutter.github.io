@@ -9,7 +9,7 @@ tags:
 ---
 
 Across scientific disciplines, including geography, the reproducibility of experiments can prove challenging.
-Here, reproducibility means a secondary researcher recomputing an original researcher’s study with access to their code, data, and methods. [^1] 
+Here, reproducibility means a secondary researcher recomputing an original researcher’s study with access to their code, data, and methods. [^1]
 The widespread adaptation of computational analysis within science has increased the potential error within experiments. 
 A single line of code or misused program can greatly modify results without those running the analysis’s knowledge. 
 Updates, discontinuation, and the price barriers of some software can decrease the reproducibility of an experiment or analysis. 
