@@ -23,3 +23,5 @@ rChanges in the data will also produce differing results; at points, data provid
 All this needs to be accounted for while producing a study that is **independently** replicable.  
 
 [Please follow this link to the entire reproduction study.](https://t-sutter.github.io/RPr-Chakraborty-2021/) 
+
+[Please follow this link to the reproduction study's Github repository.](https://github.com/t-sutter/RPr-Chakraborty-2021.git)

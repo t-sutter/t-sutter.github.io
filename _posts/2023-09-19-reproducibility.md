@@ -26,7 +26,7 @@ Open source GIS software being free to use and further develop lowers the econom
 Both open source GIS and reproducibility in science share similar principles; knowledge should not be gatekept. 
 Combining the scientific principle of reproducibility with open source GIS contributes to the development of both. 
 
-Open source GIS does not solve all geography’s reproducibility issues.
+Open source GIS does not solve all geography’s reproducibility issues.[^2]
 Like proprietary software, the base code of open source programs can change. 
 While older editions of open source base code maybe possible to find, it still proves a barrier to reproducing studies. 
 Bad data creates bad result; a GIS being open source does not change this.
@@ -41,6 +41,6 @@ Further development and adaption of open source GIS in geography can directly co
 --- 
 ### Sources
 
-[^1]: NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. [DOI: 10.17226/25303]( https://doi.org/10.17226/25303)
+[^1]: NASEM. 2019. "Reproducibility and Replicability in Science." Washington, D.C.: National Academies Press. [DOI: 10.17226/25303](https://doi.org/10.17226/25303)
 
-Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. http://dx.doi.org/10.1007/s10109-009-0086-8
+[^2]Rey, S. J. 2009. “Show Me the Code: Spatial Analysis and Open Source.” Journal of Geographical Systems 11 (2):191–207. [DOI 10.1007/s10109-009-0086-8](http://dx.doi.org/10.1007/s10109-009-0086-8)
