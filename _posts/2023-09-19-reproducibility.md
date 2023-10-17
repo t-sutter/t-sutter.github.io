@@ -43,4 +43,4 @@ Further development and adaption of open source GIS in geography can directly co
 
 [^1]: NASEM. 2019. "Reproducibility and Replicability in Science." Washington, D.C.: National Academies Press. [DOI: 10.17226/25303](https://doi.org/10.17226/25303)
 
-[^2]Rey, S. J. 2009. “Show Me the Code: Spatial Analysis and Open Source.” Journal of Geographical Systems 11 (2):191–207. [DOI 10.1007/s10109-009-0086-8](http://dx.doi.org/10.1007/s10109-009-0086-8)
+[^2]: Rey, S. J. 2009. “Show Me the Code: Spatial Analysis and Open Source.” Journal of Geographical Systems 11 (2):191–207. [DOI 10.1007/s10109-009-0086-8](http://dx.doi.org/10.1007/s10109-009-0086-8)
