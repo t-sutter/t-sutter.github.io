@@ -1,5 +1,5 @@
 ---
-title: "Detailed Mapping Nevada's Terrain"
+title: "A Detailed Cartographic Exploration of Nevada's Diverse Terrain and Ecosystems"
 last_modified_at: 2023-09-19T11:14:00-05:00
 categories:
   - Blog
