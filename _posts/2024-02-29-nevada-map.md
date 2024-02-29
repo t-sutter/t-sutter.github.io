@@ -8,9 +8,10 @@ tags:
   - Cartogarphy
 ---
 ## Peaks and Playas
-I created *Peaks and Playas,* a map detailing the diverse landforms and ecosystems of Nevada.
-Created over the course of a semester long cartogarphy seminar, I tought myself how to produce hillshade's in Blender and expanded my knowledge of terrain mapping in Adobe Photoshop. 
-In a collabrative setting, classmates provided feedback and critiques through the design process. 
+I created *Peaks and Playas,* a map detailing the diverse terrain and ecosystems of Nevada.
+Created over the course of a semester long cartogarphy seminar, I taught myself how to produce hillshade's in Blender and expanded my knowledge of terrain mapping in Adobe Photoshop. 
+Online tutorials by Daniel Huffman and Tom Patterson guided me through the learning process.
+In a collabrative setting, classmates provided feedback and critiques throughout the design process. 
 The end result displays a much maligned state, often seen as solely the site of vice or nuclear waste, as it actually is: a place full diverse ecosystems and landforms.
 
 ![Peaks and Playas](/assets/images/peaks_playas.png)
